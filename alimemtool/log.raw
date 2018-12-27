@@ -1,0 +1,28 @@
+======================================================================
+=> /home/tool/isc_ipmitool -I heci fru print 0
+
+ Chassis Type          : Rack Mount Chassis
+ Chassis Part Number   : J43.32
+ Chassis Serial        : 0
+ Board Mfg Date        : Fri Oct 26 20:12:00 2018
+ Board Mfg             : Celestica
+ Board Product         : CPU Board
+ Board Serial          : G0003CLS304AL87901C
+ Board Part Number     : R1130-G0003-03
+ Product Manufacturer  : Celestica
+ Product Name          : AliMoC02
+ Product Part Number   : R1130-F0010-01
+ Product Version       : PVT
+ Product Serial        : F0010CLS118AL87E009
+ Product Asset Tag     : TD11101000338060                
+                                                                      
+======================================================================
+=> date
+
+Fri Nov  9 17:16:24 CST 2018
+                                                                      
+======================================================================
+=> /home/tool/runtest.sh 16 1
+
+/bin/sh: /home/tool/runtest.sh: No such file or directory
+                                                                      
